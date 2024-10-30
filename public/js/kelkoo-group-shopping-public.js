@@ -1,0 +1,1 @@
+!function(c){"use strict";console.log("public js")}(jQuery);

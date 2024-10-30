@@ -1,0 +1,231 @@
+msgid "Settings"
+msgstr ""
+
+msgid "Ad Builder"
+msgstr ""
+
+msgid "Performance"
+msgstr ""
+
+msgid "TrackingID"
+msgstr ""
+
+msgid "AccessKey"
+msgstr ""
+
+msgid "Country"
+msgstr ""
+
+msgid "Are required in order to send request to Kelkoo API"
+msgstr ""
+
+msgid "The following fields are required in order to send requests to <b>Kelkoo</b> and retrieve data about products and listings. If you do not already have access keys set up, please visit the <a href=\"%s\" target=\"_blank\">KK Publisher Signup page</a> to create and retrieve them."
+msgstr ""
+
+msgid "Unable to save, please check all fields are correctly filled"
+msgstr ""
+
+msgid "Your settings are saved"
+msgstr ""
+
+msgid "Please <a href=\"%s\">update your settings</a> first"
+msgstr ""
+
+msgid "Before configuring your ads, please <a href=\"%s\">update your settings</a>"
+msgstr ""
+
+msgid "Your settings are invalid, please check all fields"
+msgstr ""
+
+msgid "Update"
+msgstr ""
+
+msgid "Create new ad"
+msgstr ""
+
+msgid "Ad Name"
+msgstr ""
+
+msgid "Ad Type"
+msgstr ""
+
+msgid "Dimensions"
+msgstr ""
+
+msgid "Number of offers"
+msgstr ""
+
+msgid "Button"
+msgstr ""
+
+msgid "Font"
+msgstr ""
+
+msgid "Ad Colors"
+msgstr ""
+
+msgid "Grid"
+msgstr ""
+
+msgid "Dynamic"
+msgstr ""
+
+msgid "Carousel"
+msgstr ""
+
+msgid "Text"
+msgstr ""
+
+msgid "Modern V2"
+msgstr ""
+
+msgid "Modern"
+msgstr ""
+
+msgid "Grid paginated"
+msgstr ""
+
+msgid "Merchant branded"
+msgstr ""
+
+msgid "Reveal"
+msgstr ""
+
+msgid "Beats"
+msgstr ""
+
+msgid "Carousel mobile"
+msgstr ""
+
+msgid "Mobile"
+msgstr ""
+
+msgid "Leaderboard (728x90)"
+msgstr ""
+
+msgid "Super Leaderboard (970x90)"
+msgstr ""
+
+msgid "Medium rectangle (300x250)"
+msgstr ""
+
+msgid "Skyscraper (120x600)"
+msgstr ""
+
+msgid "Wide skyscraper (160x600)"
+msgstr ""
+
+msgid "Half skyscraper (160x350)"
+msgstr ""
+
+msgid "Half page (300x600)"
+msgstr ""
+
+msgid "Billboard (970x250)"
+msgstr ""
+
+msgid "Responsive"
+msgstr ""
+
+msgid "Fixed width"
+msgstr ""
+
+msgid "Mobile (320x50)"
+msgstr ""
+
+msgid "Mobile V2 (320x50)"
+msgstr ""
+
+msgid "Supermobile (640x106)"
+msgstr ""
+
+msgid "Tablet (1249x159)"
+msgstr ""
+
+msgid "LBC"
+msgstr ""
+
+msgid "600 x 100 px"
+msgstr ""
+
+msgid "301 x 100 px"
+msgstr ""
+
+msgid "1408 x 500 px"
+msgstr ""
+
+msgid "728 x 180 px"
+msgstr ""
+
+msgid "930 x 180 px"
+msgstr ""
+
+msgid "1920 x 880 px"
+msgstr ""
+
+msgid "1000 x 90px"
+msgstr ""
+
+msgid "Native Subito"
+msgstr ""
+
+msgid "Maximum"
+msgstr ""
+
+msgid "Montserrat"
+msgstr ""
+
+msgid "Arial"
+msgstr ""
+
+msgid "Verdana"
+msgstr ""
+
+msgid "Times"
+msgstr ""
+
+msgid "Preview ad"
+msgstr ""
+
+msgid "Title color"
+msgstr ""
+
+msgid "Price color"
+msgstr ""
+
+msgid "Background color"
+msgstr ""
+
+msgid "Border color"
+msgstr ""
+
+msgid "Merchant color"
+msgstr ""
+
+msgid "Preview existing ads"
+msgstr ""
+
+msgid "Name"
+msgstr ""
+
+msgid "Id"
+msgstr ""
+
+msgid "Type"
+msgstr ""
+
+msgid "Size"
+msgstr ""
+
+msgid "<p>In a future version of the plugin, ads performances would be displayed on this page.</p><p>For now, please referer to the \"<a href=\"%s\" target=\"_blank\">Dashboard</a>\" on Kelkoo publisher network.</p>"
+msgstr ""
+
+msgid "Once your account created, log and copy paste settings from our <a href=\"%s\">partner extranet</a>"
+msgstr ""
+
+msgid "There is no ads to show. Please use the ad builder to create your first one."
+msgstr ""
+
+msgid "Unable to connect to get existing ads. Verify your internet connection and please reload."
+msgstr ""
+

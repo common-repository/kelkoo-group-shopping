@@ -1,0 +1,1 @@
+!function(o,i){i.kelkoo_group_shopping=i.kelkoo_group_shopping||{},i.kelkoo_group_shopping.existingAds=new i.kelkoo_group_shopping.ExistingAds,i.kelkoo_group_shopping.existingAds.init(".js-kelkoo-group-shopping-existing-ads"),(new i.kelkoo_group_shopping.AdBuilder).init("#kelkoo-group-shopping-ad-builder",{previewId:"preview-ad"})}(jQuery,window);

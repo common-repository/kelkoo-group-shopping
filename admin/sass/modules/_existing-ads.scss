@@ -1,0 +1,100 @@
+.kelkoo-group-shopping .existing-ads {
+
+    .kga-table {
+        /*background-color: #DDD;*/
+        border-spacing: 1px;
+        tr{
+            border:1px solid #DDD;
+        }
+        td{
+            padding: 4px 8px;
+        }
+
+        .kga-table-head{
+            th{
+                background-color: #E5E5E5;
+                padding: 10px 10px 10px 10px;
+                min-width: 50px;
+            }
+        }
+
+        .kga-table-body{
+            td{
+                background-color: #FFF;
+            }
+            tr:nth-of-type(even) td {
+                background-color: #FAFAFA;
+            }
+            tr:hover td, tr.highlight td{
+                background-color: #b6c4d4;
+            }
+            tr.highlight td {
+                -webkit-transition: all 3.5s ease;
+                -moz-transition: all 3.5s ease;
+                -o-transition: all 3.5s ease;
+                transition: all 3.5s ease;
+            }
+            .shortcode{
+                color: inherit;
+                font-size: 10px;
+                border: none;
+                box-shadow: none;
+                padding: 4px 8px;
+                margin: 0;
+                & > input {
+                    background-color: #FFF;
+                    width: 260px;
+                    border: none;
+                    box-shadow: none;
+                }
+            }
+        }
+    }
+    .preview-ad{ 
+        border: 0px !important;
+        background: none !important;
+    }
+}
+.sortable {
+    cursor: pointer;
+    span{
+        margin-right: 5px;
+    }
+    .fa{
+        float: right;
+        margin-top: 3px;
+    }
+}
+.kga-modal{
+    background-color: #FFF;
+    border: 1px solid #ccc;
+    position: absolute; 
+    padding: 0px;
+    left: 100px;
+    box-shadow: 4px 9px 10px rgba(200,215,225,.5), 4px 9px 10px #CCC;
+    
+    .kga-modal-head{
+        cursor: move;
+        h3{
+            padding: 10px 30px 10px 10px;
+            margin: 0px;
+            background-color: #EEE;  
+        }
+        .close {
+            position: relative;
+            float: right;
+            padding: 10px;
+            cursor: pointer;
+            font-size: 1.3em;
+            &:hover {
+                color: #777;
+            }
+        }
+    }
+    .kga-modal-body{
+        padding: 10px;
+
+    }
+
+
+}

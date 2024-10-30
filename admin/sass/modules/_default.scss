@@ -1,0 +1,101 @@
+.toplevel_page_kelkoo_group_shopping_settings,
+.kelkoo-group-shopping_page_kelkoo_group_shopping_settings_ad_builder,
+.kelkoo-group-shopping_page_kelkoo_group_shopping_settings_performance {
+    #adminmenu li.toplevel_page_kelkoo_group_shopping_settings.wp-has-current-submenu > a {
+        background: $kelkoo-orange;
+    }
+
+    #wpcontent {
+        padding-left: 0;
+    }
+}
+
+.update-nag ~ .kelkoo-group-shopping-header {
+    margin-top: 25px;
+}
+
+.kelkoo-group-shopping-header {
+    background: #FFF;
+    box-shadow: 0 1px 0 rgba(200,215,225,0.5), 0 1px 2px #ccc;
+    line-height: normal;
+    padding: 5px 20px 5px 10px;
+}
+
+.kelkoo-group-shopping {
+    margin: 0 20px;
+
+    h2 {
+        margin-bottom: 0;
+    }
+
+    h3 {
+        color: $kelkoo-darkblue;
+    }
+
+    .alert {
+        display: inline-block;
+        line-height: 19px;
+        padding: 11px 15px;
+        font-size: 14px;
+        text-align: left;
+        background-color: #DDD;
+        border-left: 4px solid $kelkoo-wp-blue;
+        -webkit-box-shadow: 0 1px 1px 0 rgba(0,0,0,.1);
+        box-shadow: 0 1px 1px 0 rgba(0,0,0,.1);
+        margin-bottom: 1em;
+    }
+
+    .breadcrumb {
+        margin-bottom: 1em;
+    }
+
+    .alert.ok {
+        border-left: 4px solid $kelkoo-wp-green;
+    }
+
+    .alert.warning {
+        border-left: 4px solid $kelkoo-wp-red;
+    }
+
+    .form {
+
+        margin-bottom: 2em;
+
+        .parameters {
+            background: #FFF;
+            border: 1px solid #DDD;
+            border-radius: 3px;
+            padding: 1em;
+            margin-bottom: 1em;
+        }
+
+        input:focus:required:invalid:focus,
+            textarea:focus:required:invalid:focus,
+            select:focus:required:invalid:focus {
+            border-color: $kelkoo-wp-red;
+            box-shadow: 0 0 6px #f8b9b7; 
+        }
+
+        .submit {
+            margin: 0;
+            padding: 0;
+            text-align: right;
+        }
+
+        label {
+            display: block;
+            margin-bottom: 1em;
+        }
+
+        label > * {
+            vertical-align: middle;
+        }
+
+        label > span {
+            display: inline-block;
+            font-weight: bold;
+            width: 100px;
+        }
+    }
+
+}
